@@ -1,7 +1,7 @@
 import { StyleSheet, ImageBackground, SafeAreaView } from "react-native";
 import StartGameScreen from "./screens/StartGameScreen";
 import GameScreen from "./screens/GameScreen";
-import Colors from "./constants/colors";
+import Colors from "./constants/Colors";
 import { useState } from "react";
 import { LinearGradient } from "expo-linear-gradient";
 import GameOverScreen from "./screens/GameOverScreen";
