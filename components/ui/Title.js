@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
   title: {
     fontFamily: "open-sans-bold",
     fontSize: 24,
-
+    marginTop: 70,
     color: "white",
     textAlign: "center",
     borderWidth: 2,
